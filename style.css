@@ -1,0 +1,10 @@
+:root{
+--cor-de-fundo: rgb(102, 219, 180);
+}
+
+.titulo1{
+    color: rosybrown;
+}
+body{
+    background-color: var(--cor-de-fundo);
+}
